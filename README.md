@@ -17,7 +17,7 @@
 <b>4_TelephoneBook</b> - довольно простой, но функциональный телефонный справочник. 
     Позволяет добавлять, редактировать и выполнять поиск записей.
 
-<b>Stepik</b> - самые интересные задания. 
+<b>StepikTasks</b> - самые интересные задания. 
     В этом разделе собраны наиболее интересные задания со звездочкой на обучающей платформе Stepik.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,5 +40,5 @@
 <b>4_TelephoneBook</b> - a fairly simple but functional telephone directory. 
     Allows you to add, edit and search for entries.
 
-<b>Stepik</b> - the most interesting tasks. 
+<b>StepikTasks</b> - the most interesting tasks. 
     This section contains the most interesting tasks with an asterisk on the Stepik training platform.
