@@ -17,6 +17,11 @@
 <b>4_TelephoneBook</b> - довольно простой, но функциональный телефонный справочник. 
     Позволяет добавлять, редактировать и выполнять поиск записей.
 
+<b>5_Communication_bot</b> - бот для общения администратора чата с пользователями.
+    Обеспечивает два режима:
+    - Вопрос / Ответ
+    - Свободный чат
+
 <b>StepikTasks</b> - самые интересные задания. 
     В этом разделе собраны наиболее интересные задания со звездочкой на обучающей платформе Stepik.
 
@@ -39,6 +44,11 @@
 
 <b>4_TelephoneBook</b> - a fairly simple but functional telephone directory. 
     Allows you to add, edit and search for entries.
+
+<b>5_Communication_bot</b> - a bot for communication between the chat administrator and users.
+    Provides two modes:
+    - Question answer
+    - Free chat    
 
 <b>StepikTasks</b> - the most interesting tasks. 
     This section contains the most interesting tasks with an asterisk on the Stepik training platform.
