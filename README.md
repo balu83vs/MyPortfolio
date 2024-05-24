@@ -22,6 +22,13 @@
     - Вопрос / Ответ
     - Свободный чат
 
+<b>6_Crossroads</b> - адаптивный алгоритм работы светофоров
+    Задача:
+        придумать и описать адаптивный алгоритм работы светофоров для оптимизации общей пропускной способности перекрестка в зависимости от ситуации на перекрестке.    
+
+<b>7_Reestr_Creator</b> - программный инструмент для преобразования сырого файла данных-выгрузки из банковской прграммы в      структуированный и отсортированный по дате документ реестра. 
+    Програмный продукт разработан и внедрен в отдел бухгалтерии крупного перевозчика в СПб.       
+
 <b>StepikTasks</b> - самые интересные задания. 
     В этом разделе собраны наиболее интересные задания со звездочкой на обучающей платформе Stepik.
 
@@ -49,6 +56,13 @@
     Provides two modes:
     - Question answer
     - Free chat    
+
+<b>6_Crossroads</b> - adaptive algorithm for traffic lights
+    Task:
+        come up with and describe an adaptive algorithm for the operation of traffic lights to optimize the overall capacity of the intersection depending on the situation at the intersection.
+
+<b>7_Reestr_Creator</b> - a software tool for converting a raw data file-upload from a banking program into a structured and date-sorted registry document. 
+    The software product was developed and implemented in the accounting department of a large carrier in St. Petersburg.            
 
 <b>StepikTasks</b> - the most interesting tasks. 
     This section contains the most interesting tasks with an asterisk on the Stepik training platform.
