@@ -27,7 +27,17 @@
         придумать и описать адаптивный алгоритм работы светофоров для оптимизации общей пропускной способности перекрестка в зависимости от ситуации на перекрестке.    
 
 <b>7_Reestr_Creator</b> - программный инструмент для преобразования сырого файла данных-выгрузки из банковской прграммы в      структуированный и отсортированный по дате документ реестра. 
-    Програмный продукт разработан и внедрен в отдел бухгалтерии крупного перевозчика в СПб.       
+    Програмный продукт разработан и внедрен в отдел бухгалтерии крупного перевозчика в СПб.   
+    
+<b>8_SalaryAgregateBot</b> - телеграм бот с встроенным алгоритмом агрегации статистических данных о зарплатах сотрудников компании по временным промежуткам.
+	Входные данные:
+	- Дата и время старта агрегации в ISO формате (далее dt_from)
+	- Дата и время окончания агрегации в ISO формате (далее dt_upto)
+	- Тип агрегации (далее group_type) (hour, day, week, month).
+
+	Результат:
+	- Агрегированный массив данных (далее dataset)
+	- Подписи к значениям агрегированного массива данных в ISO формате (далее labels).        
 
 <b>StepikTasks</b> - самые интересные задания. 
     В этом разделе собраны наиболее интересные задания со звездочкой на обучающей платформе Stepik.
@@ -62,7 +72,17 @@
         come up with and describe an adaptive algorithm for the operation of traffic lights to optimize the overall capacity of the intersection depending on the situation at the intersection.
 
 <b>7_Reestr_Creator</b> - a software tool for converting a raw data file-upload from a banking program into a structured and date-sorted registry document. 
-    The software product was developed and implemented in the accounting department of a large carrier in St. Petersburg.            
+    The software product was developed and implemented in the accounting department of a large carrier in St. Petersburg.    
+    
+<b>8_SalaryAgregateBot</b> - a telegram bot with a built-in algorithm for aggregating statistical data on the salaries of company employees by time intervals.
+	Input data:
+	- Date and time of aggregation start in ISO format (hereinafter dt_from)
+	- Date and time of end of aggregation in ISO format (hereinafter referred to as dt_upto)
+	- Aggregation type (hereinafter group_type) (hour, day, week, month).
+
+	Result:
+	- Aggregated data array (hereinafter referred to as dataset)
+	- Labels for the values ​​of the aggregated data array in ISO format (hereinafter referred to as labels).            
 
 <b>StepikTasks</b> - the most interesting tasks. 
     This section contains the most interesting tasks with an asterisk on the Stepik training platform.
