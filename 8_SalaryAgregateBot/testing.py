@@ -12,11 +12,22 @@ class JsonError(Exception):
         self.message = ERROR_MESAGE
 
 
+class TypeError(Exception):
+    """
+    Пользовательское исключение
+    """
+    
+    def __init__(self):
+        self.message = "Не правильный тип данных на входе"        
+
+
 class TestInputData:
     """
     Класс тестирования входных данных
 
     Проверка соответсвия JSON
+
+    Проверка типа данных на выходе из преобразования JSON
 
     Преобразование в JSON
 
@@ -30,7 +41,9 @@ class TestInputData:
     def json_check(self):
         try:
             json_data = json.loads(self._input_data)
+            if type(json_data) is not dict:
+                raise JsonError
         except json.JSONDecodeError:
             raise JsonError
         else:
-            return json_data
+            return json_data   
